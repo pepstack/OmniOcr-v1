@@ -10,7 +10,7 @@
 
 ## 按照下面的目录结构复制文件:
 
-  $project_home/
+  project_home/
     |
     +--------- opencv-2.4.13-win/
     |
@@ -21,6 +21,7 @@
     +--------- workspace/
                     |
                     +---------- OmniOcr-v1/
+
 
 使用 vs2013 打开 OmniOcrCli/OmniOcrCli.sln, 编译即可！
 
