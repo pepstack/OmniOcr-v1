@@ -1,0 +1,6 @@
+Win32/
+x64/
+*.sdf
+*.pyc
+*.exe
+*.pdb
